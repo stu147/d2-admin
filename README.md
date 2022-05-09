@@ -1,4 +1,6 @@
-![banner](https://raw.githubusercontent.com/FairyEver/d2-admin/master/docs/image/banner.png)
+文档地址：https://d2.pub/zh/doc/d2-admin/
+
+效果预览：https://d2.pub/d2-admin/preview/#/index
 
 <p align="center">
 	<a href="https://github.com/d2-projects/d2-admin/stargazers" target="_blank"><img src="https://img.shields.io/github/stars/d2-projects/d2-admin.svg"></a>
